@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f052461-d117-4bd2-b3eb-dd1c36bc1d8a" name="LukeMackin-PersonalBlog" url="http://192.168.1.10:90">
+        <fileTransfer host="192.168.1.10" port="30">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
